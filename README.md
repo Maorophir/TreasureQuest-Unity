@@ -1,7 +1,7 @@
 # Treasure Quest 🎮
 
-**Video Demo:** [YouTube]<https://www.youtube.com/watch?v=M0XY14ObTpo>  
-**Play Online:** [itch.io]<https://maorophir.itch.io/treasure-quest> 
+**Video Demo:** [YouTube](<https://www.youtube.com/watch?v=M0XY14ObTpo>)  
+**Play Online:** [itch.io](<https://maorophir.itch.io/treasure-quest>) 
 
 A 2D platformer game built with **Unity (C#)** as my final project for the CS50 course.  
 The game features two levels ("The Village" and "The Lava Cave") with enemies, collectibles, animations, and health mechanics.
@@ -27,7 +27,7 @@ The game features two levels ("The Village" and "The Lava Cave") with enemies, c
 ---
 
 ## ▶️ How to Play
-- [Play online on itch.io]<https://maorophir.itch.io/treasure-quest>
+- [Play online on itch.io](<https://maorophir.itch.io/treasure-quest>)
 - Or clone the repo and open in **Unity 2021+** to run locally.
 
 ---
